@@ -25,9 +25,9 @@ To compile and run this C++ program, follow these steps:
 4. Compile the code using the C++ compiler. For example, if you are using g++, you can compile the code with the following command:
 
    ```bash
-   g++ -o ccwc ccwc.cpp
+   g++ ccwc.cpp -o ccwc
    ```
-   This command compiles the code and generates an executable file named `ccwc`.
+   This command compiles the ccwc.cpp code and generates an executable file named `ccwc`.
 
 5. After successful compilation, you can run the program using one of the following formats:
 
