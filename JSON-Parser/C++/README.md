@@ -193,7 +193,7 @@ Number of test cases failed : 0
 
 ```plain
 main() in driver.cpp
-				--> lexer() in lexer.cpp
+		--> lexer() in lexer.cpp
                 --> parser() in parse.cpp
 ```
 
