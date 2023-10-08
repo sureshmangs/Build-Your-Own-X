@@ -12,3 +12,9 @@ It supports four different options:
 4. `-m`: Count the number of characters in the input file (same as `-c` if the current locale does not support multibyte characters).
 
 It also handles input from standard input (stdin) if no fileName is specified.
+
+
+## [Write Your Own JSON Parser](JSON-Parser/C%2B%2B)
+
+The JSON Parser does the parsing and validation of data in a format resembling JSON. It starts by breaking down the input data into individual tokens through lexical analysis. Then, it proceeds to parse and validate the data structure, ensuring that it conforms to the expected JSON-like format. It ultimately determines whether the input data is "VALID JSON" or "INVALID JSON" based on the correctness of its structure.
+
