@@ -198,8 +198,8 @@ main() in driver.cpp
 ```
 
 
-## Write Your Own JSON Parser
+## Build Your Own JSON Parser
 
 This challenge is to build your own JSON parser.
 
-This challenge corresponds to the "Write Your Own JSON Parser" [Coding Challenges series by John Crickett](https://codingchallenges.fyi/challenges/challenge-json-parser).
+This challenge corresponds to the "Build Your Own JSON Parser" [Coding Challenges series by John Crickett](https://codingchallenges.fyi/challenges/challenge-json-parser).

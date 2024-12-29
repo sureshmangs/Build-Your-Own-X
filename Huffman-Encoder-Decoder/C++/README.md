@@ -293,8 +293,8 @@ main() in driver.cpp
 - This file acts as the user interface for the compression and decompression operations, ensuring proper execution and data display.
 
 
-## Write Your Own Compression Tool
+## Build Your Own Compression Tool
 
 This challenge is to build your own compression tool.
 
-This challenge corresponds to the "Write Your Own Compression Tool" [Coding Challenges series by John Crickett](https://codingchallenges.fyi/challenges/challenge-huffman).
+This challenge corresponds to the "Build Your Own Compression Tool" [Coding Challenges series by John Crickett](https://codingchallenges.fyi/challenges/challenge-huffman).

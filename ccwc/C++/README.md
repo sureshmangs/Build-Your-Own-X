@@ -139,8 +139,8 @@ Here's how you can do it:
       Now, the `ccwc` command should be available in your terminal.
 
 
-## Write your own wc tool
+## Build Your Own WC Tool
 
 This challenge is to build your own version of the Unix command line tool wc!
 
-This challenge corresponds to the "Write Your Own wc Tool" [Coding Challenges series by John Crickett](https://codingchallenges.fyi/challenges/challenge-wc).
+This challenge corresponds to the "Build Your Own wc Tool" [Coding Challenges series by John Crickett](https://codingchallenges.fyi/challenges/challenge-wc).
